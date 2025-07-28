@@ -79,4 +79,4 @@ Each input PDF results in a structured `.json` file inside the `output/` directo
 
 ---
 
-© Challenge 1A — Hackathon Persona-Driven Document Intelligence
+© Challenge 1A — Adobe Hackathon
