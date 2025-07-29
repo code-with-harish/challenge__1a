@@ -17,10 +17,7 @@ challenge1a/
 ├── model/                  # Contains locally downloaded SentenceTransformer model
 ├── main.py                 # Entry point for the pipeline
 ├── download.py             # Script to download the model before building image
-├── utils/
-│   ├── parser.py           # Extract text and structure from PDFs
-│   ├── ranker.py           # Embedding + scoring logic
-│   └── helpers.py          # Utility functions
+├── utils.py
 ├── requirements.txt        # Python dependencies
 ├── Dockerfile              # Docker image definition
 └── README.md               # Project description and instructions
